@@ -1,0 +1,12 @@
+{
+    "name": "codigonaranja/unittest",    
+    "authors": [
+        {
+            "name": "luis cruz",
+            "email": "luis_cruz@outlook.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    } 
+}
